@@ -53,5 +53,8 @@ http://forum.arduino.cc/index.php/topic,14183.0.html
 
 http://tronixstuff.com/2014/04/13/add-long-distance-connectivity-arduino-catkit-system/
 
+http://www.windmill.co.uk/rs485.html
+
+http://www.xanthium.in/RS485-communication-using-MAX485-and-MSP430-Launchpad
 
 
