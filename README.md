@@ -46,3 +46,12 @@ http://forum.arduino.cc/index.php?topic=146435.0
 https://www.reddit.com/r/diyelectronics/comments/43o7on/ultrasonic_sensor_acting_weird_when_connected_to/
 
 http://www.instructables.com/id/RS485-Serial-Communication-Between-Arduino-Mega-an/?ALLSTEPS
+
+http://www.aestheticacoustics.com/SHT11_01.htm
+
+http://forum.arduino.cc/index.php/topic,14183.0.html
+
+http://tronixstuff.com/2014/04/13/add-long-distance-connectivity-arduino-catkit-system/
+
+
+
