@@ -31,6 +31,10 @@ https://hacktronics.co.in/step-down-power-supply/7805-based-5v-power-supply-modu
 
 https://hacktronics.co.in/step-up-power-supply/xl6009-dc-step-up-converter-lm2577-type-booster-module
 
+Similar Implemetnations 
+
+https://www.instructables.com/id/Measuring-water-level-with-ultrasonic-sensor/
+
 - Dicussions on operating sensors at longer distance
 
 http://forum.arduino.cc/index.php?topic=329313.0
