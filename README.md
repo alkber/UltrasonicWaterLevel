@@ -12,6 +12,7 @@ Ultrasonic water level measuring using Arduino UNO R3
 
 - Arduino UNO R3
 - HC-SR04 - ultrasonic sensor
+- MAX485 RS-485 to TTL module x 2 
 - CAT5 cable for long distance placement of ultrasonic sensor
 - 12V - 1.0A DC power supply
 - 7805 based voltage regular for the HC-SR04 module at longer distance
@@ -35,7 +36,11 @@ Similar Implemetnations
 
 https://www.instructables.com/id/Measuring-water-level-with-ultrasonic-sensor/
 
+http://www.makechronicles.com/2012/03/13/arduino-project-6-measuring-a-water-tank-level-srf05-ultrasonic-rangefinderarduino-mega-2560arduino-uno1-0/
+
 - Dicussions on operating sensors at longer distance
+
+http://forum.allaboutcircuits.com/threads/use-of-ethernet-cable-for-power-and-rs485.89816/
 
 http://forum.arduino.cc/index.php?topic=329313.0
 
